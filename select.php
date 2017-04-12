@@ -8,7 +8,7 @@ class Select {
     $mysql_host = "localhost";
     $mysql_database = "wolf4656_subzerodata";
     $mysql_user = "wolf4656_1";
-    $mysql_password = "Rubiks24";
+    $mysql_password = "********";
 
     //create connection
     $connection = new mysqli($mysql_host, $mysql_user, $mysql_password, $mysql_database);
