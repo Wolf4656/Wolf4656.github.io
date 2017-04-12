@@ -1,0 +1,196 @@
+html, body{
+  background-color: #21887A;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  font-family: Tahoma;
+}
+
+h1{
+  text-align: center;
+  color: rgb(255,255,255);
+  font-size: 40px;
+}
+
+.nav2{
+  background-color: #61B4A9;
+  border:1px solid #ccc;
+  border-width:1px 0;
+  list-style:none;
+  margin:0;
+  padding:0;
+  text-align:center;
+}
+.nav2 li{
+  display:inline;
+}
+.nav2 a{
+  text-decoration: none;
+  color: rgb(255,255,255);
+  display:inline-block;
+  padding:10px;
+}
+
+.nav2 a:visited{
+  text-decoration: none;
+  color: rgb(255,255,255);
+  display:inline-block;
+  padding:10px;
+}
+
+.nav2 a:hover{
+  text-decoration: none;
+  background-color: #ffea05;
+}
+
+.jumbotron {
+background-image : url('smash3.jpg');
+height: 400px;
+width: auto;
+}
+
+.squish{
+  padding: 10px;
+  padding-bottom: 20px;
+  min-height: 100%;
+  border-radius: 25px;
+  max-width: 900px;
+  background-color: #61B4A9;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.squish2{
+  padding: 10px;
+  padding-bottom: 20px;
+  min-height: 100%;
+  border-radius: 25px;
+  background-color: #61B4A9;
+  margin: auto;
+}
+
+.squish a {
+  margin-left: 340px;
+  text-decoration: none;
+}
+
+.squish a:visited{
+  color: blue;
+}
+
+.squish a:hover{
+  text-decoration: underline;
+}
+
+.squish ul{
+  font-size: 30px;
+}
+
+.squish li{
+  font-size: 20px;
+}
+
+.squish div{
+  font-size: 14px;
+}
+
+.squish p{
+  text-align: left;
+}
+
+.squish img{
+  float: left;
+  border-radius: 5px;
+}
+
+.registration{
+  padding: 15px;
+  border-radius: 25px;
+  width: 350px;
+  background-color: #61B4A9;
+  margin: auto;
+  min-height: 100%
+}
+
+.contact{
+  padding: 15px;
+  border-radius: 25px;
+  width: 600px;
+  background-color: #61B4A9;
+  margin: auto;
+  min-height: 100%
+}
+
+.form-group{
+  margin-top: 10px;
+  border-radius: 3px;
+  border: none;
+  padding: 5px 10px;
+  width: 330px;
+}
+
+.input-box{
+  width: 300px;
+}
+
+.input-box2{
+  width: 160px;
+  float: left;
+  margin-right: 200px;
+  margin-bottom: 15px;
+}
+
+.checkers{
+  margin-right: 0px;
+}
+
+.tier1,{
+  margin-left: 10px;
+}
+
+.tier2{
+  margin-left: 30px;
+}
+
+.lvl1{
+  margin-left: 25px;
+}
+
+.lvl2{
+  margin-left: 75px;
+}
+
+.lvl3{
+  margin-left: 125px;
+}
+
+.lvl4{
+margin-left: 175px;
+}
+
+.class1{
+  width: 100%;
+  text-align: left;
+}
+
+.class1 table, th, td {
+    border: 1px solid black;
+}
+
+.class1 th, td{
+  padding-right: 40px;
+}
+
+.footer{
+  background-color: #61B4A9;
+  text-align: center;
+  margin-top: 30px;
+  width:100%;
+  height:100px;
+  border:1px solid #ccc;
+  border-width:1px 0;
+  bottom: 0;
+  font-family: tahoma;
+}
